@@ -7,6 +7,8 @@ In other words the behaviour is a *bit* annoying...
 
 Just meant as a small prototype for myself to be reminded of new QGIS features.
 
+![screenshot](https://github.com/kannes/show-random-changelog-entry/assets/7661092/f8ba9f4c-a98f-4292-aa68-f78a591574c9)
+
 # TODO
 - Also consider the last n versions (maybe up to latest LTR) and random pick one
 - Add information to the user how to disable the plugin again
