@@ -2,7 +2,7 @@
 name=Show Random Changelog Entry on Launch
 description=Shows a random entry in the QGIS version's visual changelog upon QGIS launch
 about=Shows a random entry in the QGIS version's visual changelog upon QGIS launch (surprisingly; with slight delay, because loading the page takes a while...).
-version=1.0
+version=1.1
 qgisMinimumVersion=3.16
 author=Johannes Kröger (WhereGroup GmbH)
 email=johannes.kroeger@wheregroup.com
@@ -22,5 +22,9 @@ deprecated=False
 server=False
 
 changelog=
+    Version 1.1:
+    - Update icon
+    - Update metadata (works with 3.16!)
+    - First release in QGIS repo
     Version 1.0:
     - First public release
