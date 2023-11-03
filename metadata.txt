@@ -1,0 +1,7 @@
+[general]
+name=Show Random Changelog Entry on Launch
+description=Shows a random entry in the QGIS version's visual changelog upon QGIS launch (surprisingly, with slight delay).
+version=1.0
+qgisMinimumVersion=3.28
+author=Johannes Kröger (WhereGroup GmbH)
+email=johannes.kroeger@wheregroup.com
